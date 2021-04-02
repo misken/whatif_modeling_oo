@@ -1,6 +1,5 @@
 numpy
 pandas
 matplotlib
-mpl_toolkits
 seaborn
 scipy
